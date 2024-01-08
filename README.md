@@ -36,23 +36,7 @@
 
 - 📫 Feel free to reach me out **jatinder1901243@gmail.com**
 
-<!--Intro end-->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Xaid-vfx&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-
-[![An image of @xaidvfx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xaidvfx)](https://holopin.io/@xaidvfx)
-
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
+[![An image of @xaidvfx's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@jatinder14#badges)](https://www.holopin.io/@jatinder14#badges)
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
