@@ -26,17 +26,15 @@
 
 
 <!--Intro start-->
-- 💻 I’m a Full Stack Web Developer (MERN), with proficiency in Front End Development.
+- 💻 I’m a Full Stack Web Developer (MERN)+PHP(MVC), with proficiency in Back End Development.
   
-- 🌱 I’m a passionate Open Source Contributor, you can view my Contributions here --> [Open Source Contributions](https://portfolio-website-xaid-vfx.vercel.app/open-source)
+- 🌱 I’m a passionate Open Source Contributor.
   
-- 🔭 I’m currently working on **Next.js, React.js, Node.js and Problem Solving**
-
-- 📝 I regularly post my progress on [Twitter](https://twitter.com/relaxxaid/)
+- 🔭 I’m currently working on **Next.js, React.js, Node.js, PHP and Problem Solving**
 
 - 💬 Ask me about **React, TypeScript, JavaScript, Open Source, Web Design, CSS and anything related to Web**
 
-- 📫 Feel free to reach me out **mohdzaid.work@gmail.com**
+- 📫 Feel free to reach me out **jatinder1901243@gmail.com**
 
 <!--Intro end-->
 
