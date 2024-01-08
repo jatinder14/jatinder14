@@ -37,6 +37,7 @@
 - 📫 Feel free to reach me out **jatinder1901243@gmail.com**
 
 [![An image of @jatinder14's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@jatinder14)](https://www.holopin.io/@jatinder14)
+[![An image of @xaidvfx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xaidvfx)](https://holopin.io/@xaidvfx)
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
